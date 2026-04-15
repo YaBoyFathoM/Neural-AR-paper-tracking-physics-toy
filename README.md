@@ -16,10 +16,5 @@ A real-time AR physics sandbox. It uses a custom HRNet mesh regressor to detect 
 
 Requires Python 3.9+ and a CUDA-compatible GPU for real-time tracking (CPU fallback supported).
 
-```bash
-git clone [https://github.com/your-username/Neural-AR-Sandbox](https://github.com/your-username/Neural-AR-Sandbox)
-cd Neural-AR-Sandbox
-pip install -r requirements.txt
-
 **Training Visualizer (Dashboard Example):**
 ![Training Visualizer](examples/epoch_075.png)
